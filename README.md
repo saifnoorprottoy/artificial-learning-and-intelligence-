@@ -46,4 +46,5 @@ used for many  approaches to AI (not all) [1]
 ### Courses
 1.  Richard Sutton , CMPUT 366 - Intelligent Systems (Uni of Alberta) : https://www.dropbox.com/sh/467termw7cc95zk/AAAA3Om4QHihZf8yf7riy-Zwa?dl=0 
 2.  Yaser S. Abu-Mostafa , Learning from Data (Caltech) , https://work.caltech.edu/telecourse.html
+3.  Davild Silver, Reinforcement Learning (UCL,now at Deepmind Technologies Ltd), http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 3.  Lex Fridman , 6.S094: Deep Learning for Self-Driving Cars (MIT), http://selfdrivingcars.mit.edu/
