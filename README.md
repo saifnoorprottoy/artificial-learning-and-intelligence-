@@ -35,6 +35,7 @@ used for many  approaches to AI (not all) [1]
 0. http://rinuboney.github.io/2016/01/19/ladder-network.html 
 1. Main Paper: https://arxiv.org/abs/1507.02672
 2. https://www.youtube.com/watch?v=ZlyqNiPFu2s
+3. Deconstructing the Ladder Network Architecture : http://proceedings.mlr.press/v48/pezeshki16.pdf
 ----------------------------------------
 ### Books
 1. A Course in Machine Learning : http://ciml.info/  By Hal Daumé
