@@ -6,6 +6,7 @@ https://machinelearning.apple.com/2017/10/01/hey-siri.html [3]
 
 https://einstein.ai/research/non-autoregressive-neural-machine-translation [4]
 
+
 -----------------------
 
 1. Alexa Machine Learning , https://www.amazon.jobs/en/teams/alexa-machine-learning
